@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.SariSariPOS" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/brand_blue</item>
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+</resources>

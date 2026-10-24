@@ -1,0 +1,7 @@
+Bundled product photo: Piattos cheese-flavoured potato crisps (barcode 4800016644504)
+Source: Open Food Facts product page https://world.openfoodfacts.org/product/4800016644504
+Catalog image URL: https://images.openfoodfacts.org/images/products/480/001/664/4504/front_en.46.400.jpg
+License: Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+Attribution: Open Food Facts. Product images may contain separate third-party packaging/trademark rights; see https://world.openfoodfacts.org/terms-of-use.
+
+This file documents the bundled image; attribution is also displayed in the product UI. Additional photos obtained from Open Food Facts are imported only when selected and retain their product-page attribution URL in the local product record.

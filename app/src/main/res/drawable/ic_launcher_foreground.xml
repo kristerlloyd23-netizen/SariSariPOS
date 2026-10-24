@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- store body -->
+    <path android:fillColor="#FFFFFF" android:pathData="M32,50h44v28h-44z"/>
+    <!-- door -->
+    <path android:fillColor="#0038A8" android:pathData="M48,60h12v18h-12z"/>
+    <!-- awning stripes -->
+    <path android:fillColor="#CE1126" android:pathData="M28,36h10v14h-10z"/>
+    <path android:fillColor="#FCD116" android:pathData="M38,36h8v14h-8z"/>
+    <path android:fillColor="#CE1126" android:pathData="M46,36h8v14h-8z"/>
+    <path android:fillColor="#FCD116" android:pathData="M54,36h8v14h-8z"/>
+    <path android:fillColor="#CE1126" android:pathData="M62,36h8v14h-8z"/>
+    <path android:fillColor="#FCD116" android:pathData="M70,36h10v14h-10z"/>
+    <!-- peso sign window -->
+    <path android:fillColor="#FCD116" android:pathData="M36,56h8v8h-8z"/>
+    <path android:fillColor="#FCD116" android:pathData="M64,56h8v8h-8z"/>
+</vector>
