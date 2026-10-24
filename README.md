@@ -16,8 +16,9 @@ Installable debug APK:
 app/build/outputs/apk/debug/app-debug.apk
 ```
 
-A pre-built APK is also available in this repository under:
-- [`apk/SariSariPOS-debug.apk`](apk/SariSariPOS-debug.apk)
+A pre-built APK is available to download:
+- **GitHub Release:** [Download SariSariPOS-debug.apk (v1.0.0)](https://github.com/kristerlloyd23-netizen/SariSariPOS/releases/download/v1.0.0/SariSariPOS-debug.apk)
+- **Repository path:** [`apk/SariSariPOS-debug.apk`](apk/SariSariPOS-debug.apk)
 
 Run the unit tests:
 
